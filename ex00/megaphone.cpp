@@ -5,7 +5,7 @@
 int main(int ac, char **av)
 {
 	int i = 0;
-	size_t j = 0;
+	size_t j = -1;
 	
 	if (ac == 1)
 	{
